@@ -1,0 +1,51 @@
+#contenedor{
+    margin:0px auto;
+    width: 100%;
+    font-family: Times New Roman;
+}
+
+#principal{
+    width:100%;
+    float:left;
+    background-color:#8a1616;
+}
+
+#fondo_login{
+    background:url(login.png) 0 0 repeat transparent;
+    width: 1024px;
+    height: 460px;
+}
+
+#login{
+    margin-left: 300px;
+    padding-top: 180px;
+    float: left;
+    text-align: left;
+}
+
+#login button{
+    margin-left: 200px;
+    margin-top: 10px;
+    background:url(ingresar.png);
+    border:none;
+    width: 120px;
+    height: 41px;
+}
+
+#login label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+#login input{
+    background-color: #cfb2b2;
+    border:none;
+    min-width: 120px;
+    width: 115px;
+    font-size: 14px;
+    text-align: left; 
+}
+.uno{
+    margin-left: 26px;
+}
